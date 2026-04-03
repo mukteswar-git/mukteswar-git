@@ -21,7 +21,7 @@
 
 | Project | Description | Link |
 |---------|-------------|------|
-| **mdev-components** | UI component library — CVA variants, design tokens, dark/light theme | [GitHub ↗](https://github.com/mdev-creations/mdevcomponents) |
+| **mdev-components** | UI component library — CVA variants, design tokens, dark/light theme | [GitHub ↗](https://github.com/mukteswar-git/mdev-components) |
 | **Grow Edge** | Responsive landing page · Figma-first · Tailwind CSS | [Live ↗](https://grow-edge.netlify.app/) |
 | **Restaurant Landing Page** | Token-driven components · CSS variables · Vite | [Live ↗](https://landing-page2-restaurant.netlify.app/) |
 
