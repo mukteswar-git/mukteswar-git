@@ -1,42 +1,40 @@
-<h1 align="center">Hi 👋, I'm Mukteswar Tripathy</h1>
-
-- 🌱 I’m currently upskilling my frontend development skills.
-- 🔭 I’m building a custom UI component library for my brand projects. 
-- 🤝 I’m open to collaborating with Figma UI/UX designers and frontend developers. 
-- 💬 Ask me anything about UI/UX design.
-- 📄 Check out my experience: [Resume](https://github.com/mukteswar-dev/Resume/blob/main/Mukteswar_Triapthy_Resume%20-%20Google%20Docs.pdf)
-- 📫 Reach me at: mukteswar.work@gmail.com
-- 😄 Pronouns: He/Him
-<!-- - ⚡ Fun fact: I code by day and build my brand by night. -->
-<!-- - 🤔 I’m looking for help with improving my frontend skills, especially in advanced JavaScript. -->
-<!--
-**mukteswar-connect/mukteswar-connect** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<h3 align="left">Connect with me:</h3>
-<a href="https://linkedin.com/in/mukteswar-dev" target="_blank"><img align="center" src="https://github.com/mukteswar-git/web/blob/dev/icons/social-media/linkedin-square-icon.svg" alt="LinkedIn - mukteswar-dev" height="30" width="40" hspace="4" /></a>
-<a href="https://x.com/mukteswar_dev" target="_blank"><img align="center" src="https://github.com/mukteswar-git/web/blob/dev/icons/social-media/x-social-media-logo-icon.svg" alt="X - mukteswar_dev" height="37" width="37" hspace="4"/></a>
-<a href="https://www.facebook.com/profile.php?id=61578039423848" target="_blank"><img align="center" src="https://github.com/mukteswar-git/web/blob/dev/icons/social-media/facebook-square-icon.svg" alt="Facebook - mukteswar_dev" height="30" width="40" /></a>
-<a href="https://www.instagram.com/mukteswar_dev" target="_blank"><img align="center" src="https://github.com/mukteswar-git/web/blob/dev/icons/social-media/ig-instagram-icon.svg" alt="Instagram - mukteswar_dev" height="30" width="40"/></a>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> &nbsp;
-  <!-- HTML --> <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/></a> &nbsp;&nbsp;
-<!-- Tailwind CSS --> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwindcss" width="40" height="40"/></a> &nbsp;&nbsp;
-<!-- JavaScript --> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a> &nbsp;&nbsp;   
-<!-- Vite --><a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://vitejs.dev/logo.svg" alt="vite" width="40" height="40" style="margin-right:4px;"/></a> &nbsp;&nbsp;
-<!-- Figma --><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="40" height="40"/></a> 
+<h1 align="center">Mukteswar Tripathy</h1>
+<p align="center">React Developer · Tailwind CSS · Figma → Code</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Open%20to%20Work-brightgreen?style=flat" />
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mukteswar-dev&show_icons=true&locale=en" alt="mukteswar-dev" /></p>
+---
+
+- 🚀 Frontend Developer focused on building UIs with **React & Tailwind CSS**
+- 🎨 Experienced in **Figma-to-code** workflows and component-driven design
+- 💼 3 internships in web development, UI design & automation · B.Tech CSE (8.12 CGPA)
+- 💬 Ask me about **React, Tailwind CSS** or component design
+- 📄 [Resume](https://github.com/mukteswar-git/Resume/blob/main/MukteswarTripathyResume.pdf) · 📫 mukteswart5@gmail.com · 😄 He/Him
+
+---
+
+## Projects
+
+| Project | Description | Link |
+|---------|-------------|------|
+| **mdev-components** | UI component library — CVA variants, design tokens, dark/light theme | [GitHub ↗](https://github.com/mdev-creations/mdevcomponents) |
+| **Grow Edge** | Responsive landing page · Figma-first · Tailwind CSS | [Live ↗](https://grow-edge.netlify.app/) |
+| **Restaurant Landing Page** | Token-driven components · CSS variables · Vite | [Live ↗](https://landing-page2-restaurant.netlify.app/) |
+
+---
+
+## Stack
+
+`React` `JavaScript` `Tailwind CSS` `HTML & CSS` `Figma` `Vite` `Git`
+
+---
+
+## Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/mukteswar-dev)
+[![X](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://x.com/mukteswar_dev)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/mukteswar_dev)
